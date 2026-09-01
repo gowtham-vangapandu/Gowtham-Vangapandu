@@ -66,6 +66,8 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/gowtham-vangapandu/sap-project/output/snake.svg" alt="GitHub contribution snake animation">
+<img
+  src="https://raw.githubusercontent.com/gowtham-vangapandu/Gowtham-Vangapandu/output/snake.svg"
+  alt="GitHub contribution snake animation">
 
 </div>
